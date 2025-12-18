@@ -1,12 +1,12 @@
 # Mavlonbek Ibragimov
 
 **Front-end Developer**  
-2 yil tajriba  
-Nexara IT Company, Toshkent, O‘zbekistan
+2 years of experience  
+Nexara IT Company, Tashkent, Uzbekistan
 
-Zamonaviy va yuqori samarali web ilovalarni ishlab chiqaman. Asosiy yo‘nalishlarim — React va Next.js framework’lari bilan ishlash, clean code yozish, optimal performance va foydalanuvchi tajribasiga (UX) alohida e’tibor berish.
+I build modern, performant, and responsive web applications with a focus on clean code, optimal performance, and exceptional user experience (UX). Specialized in React and Next.js ecosystems.
 
-### Texnologiyalar
+### Technologies
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -15,27 +15,27 @@ Zamonaviy va yuqori samarali web ilovalarni ishlab chiqaman. Asosiy yo‘nalishl
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Qo‘shimcha: Redux, Git, Figma, Vercel, REST API.
+Additional tools: Redux, Git, Figma, Vercel, REST APIs.
 
-### Tanlangan Loyihalar
+### Selected Projects
 
-| Loyiha            | Tavsif                                                                      |
+| Project           | Description                                                                 |
 |-------------------|-----------------------------------------------------------------------------|
-| Nexcent           | Zamonaviy landing page — toza dizayn, responsive layout va animatsiyalar   |
-| University Site   | Universitet veb-sayti — ko‘p sahifali, dynamic kontent va admin panel     |
-| First Project     | Dastlabki katta loyiha — portfolio va UI/UX elementlari bilan              |
-| Data1             | Interaktiv ma’lumotlar vizualizatsiyasi va dashboard komponentlari         |
+| Nexcent           | Modern landing page with clean design, responsive layout, and smooth animations |
+| University Site   | Multi-page university website with dynamic content and admin panel features |
+| First Project     | Initial large-scale project focused on portfolio and UI/UX components      |
+| Data1             | Interactive data visualization dashboard with custom components            |
 
-### GitHub Statistika
+### GitHub Stats
 
 ![Mavlonbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=mavlon05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mavlon05&layout=compact&theme=tokyonight&hide_border=true)
 
-### Aloqa
+### Contact
 
 - Telegram: [@Schihovich_24](https://t.me/Schihovich_24)
-- Email: (o‘zingizning professional emailingizni qo‘shing, masalan mavlonbek.dev@gmail.com)
-- LinkedIn: (agar bor bo‘lsa, link qo‘shing)
+- Email: (add your professional email, e.g., mavlonbek.dev@gmail.com)
+- LinkedIn: (add your LinkedIn URL if available)
 
-Rahmat profilingizni ko‘rganingiz uchun. Yangi loyihalar va hamkorlik takliflariga ochiqman.
+Thank you for visiting my profile. Open to new opportunities and collaborations.
