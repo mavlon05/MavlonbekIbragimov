@@ -6,6 +6,8 @@ Nexara IT Company, Tashkent, Uzbekistan
 
 I build modern, performant, and responsive web applications with a focus on clean code, optimal performance, and exceptional user experience (UX). Specialized in React and Next.js ecosystems.
 
+---
+
 ### Technologies
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -17,14 +19,17 @@ I build modern, performant, and responsive web applications with a focus on clea
 
 Additional tools: Redux, Git, Figma, Vercel, REST APIs.
 
+---
+
 ### Selected Projects
 
-| Project           | Description                                                                 |
-|-------------------|-----------------------------------------------------------------------------|
-| Nexcent           | Modern landing page with clean design, responsive layout, and smooth animations |
-| University Site   | Multi-page university website with dynamic content and admin panel features |
-| First Project     | Initial large-scale project focused on portfolio and UI/UX components      |
-| Data1             | Interactive data visualization dashboard with custom components            |
+| Project           | Description                                                                 | Link |
+|-------------------|-----------------------------------------------------------------------------|------|
+| Nexara Website    | Modern single-page landing with clean design, responsive layout, and smooth animations | [nexara.software](https://www.nexara.software/) |
+| Keyart Website    | Multi-page corporate website with dynamic content and optimized UX          | [keyart.uz](https://www.keyart.uz/) |
+| University Site   | Multi-page university website with dynamic content and admin panel features 
+
+---
 
 ### GitHub Stats
 
@@ -32,10 +37,12 @@ Additional tools: Redux, Git, Figma, Vercel, REST APIs.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mavlon05&layout=compact&theme=tokyonight&hide_border=true)
 
+---
+
 ### Contact
 
-- Telegram: [@Schihovich_24](https://t.me/Schihovich_24)
-- Email: (add your professional email, e.g., mavlonbek.dev@gmail.com)
-- LinkedIn: (add your LinkedIn URL if available)
+- Telegram: [@Schihovich_24](https://t.me/Schihovich_24)  
+- Email: (add your professional email, e.g., mavlonbek.dev@gmail.com)  
+- LinkedIn: (add your LinkedIn URL if available)  
 
 Thank you for visiting my profile. Open to new opportunities and collaborations.
